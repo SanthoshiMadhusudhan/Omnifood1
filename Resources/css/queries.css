@@ -20,6 +20,8 @@
     width:80%;
     margin-left: 10%;
 }
+ .section-testimonials{background-attachment: scroll;
+}
     .steps-box{margin-top: 10px;}
     .steps-box:last-child{margin-top: 10px;}
     .works-step{margin-bottom: 40px;}
