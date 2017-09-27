@@ -12,7 +12,8 @@
 
 /* iPpad in portrait mode: Small tablet to big Tablet: 768px to 1023px              */
 @media only screen and (max-width:1023px){
-    body{ font-size: 18px;}
+ header{background-attachment: scroll;}   
+ body{ font-size: 18px;}
     section{ padding: 60px 0;}
     .long-copy{
    
@@ -42,7 +43,8 @@
 
 /* iPad, small tablets or Phones smaller than iPad: 481 to 767px */
 @media only screen and (max-width:767px){
-    body{font-size: 16px;}
+    
+ body{font-size: 16px;}
     section{padding: 30px 0;}
     .row,
     hero-text-box{padding: 0 4%;}
